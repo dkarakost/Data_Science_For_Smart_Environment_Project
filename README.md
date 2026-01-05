@@ -1,2 +1,4 @@
 # Individual_portfolio
-This is a repository for Data Science for Smart Environments 
+
+## Introduction ## 
+This repository contains my individual learning portfolio 
