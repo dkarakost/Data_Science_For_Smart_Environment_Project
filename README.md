@@ -10,6 +10,16 @@ This repository contains my individual learning portfolio
 
 ```ffeaceafa ```
 
+---
+
+
+* beaches_v2-b.csv
+
+```The file has informaiton about with column names ```
+
+---
+
+
 
 
 ## Original Personal Learning Plan 
