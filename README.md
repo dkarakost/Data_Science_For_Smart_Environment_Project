@@ -1,32 +1,44 @@
-# Individual_portfolio
-
-## Introduction 
-This repository contains my individual learning portfolio 
-
 
 ## Metadata 
 
-* report_eng(Beaches) 
+* **report_eng(Beaches)**
 
-```ffeaceafa ```
-
----
-
-
-* beaches_v2-b.csv
-
-```The file has informaiton about with column names ```
+```This dataset contains the beaches names, location, country and coordinates it can be used to retrieve the beaches from Google Places with naming and location matching ```
 
 ---
 
 
+* **beaches_v2-b**
+
+```The dataset contains the retrieved information from the Google Places API. It has the user ratings and the amount of the overall users as well as the type, the vicinity and the coordinates that the API return.```
+
+---
+
+* **Beaches_corrected_final**
+
+```IMPORTANT this dataset is a manually corrected version of the beaches_v2-b.csv file where it has the correct names, beaches location it will be used for merge with the materials-record file ```
+
+---
+
+* **materials-record**
+
+```The dataset contains generic information per beach in Italy. It can be used to do some quick statistical analysis and follong the steps it will to be merged with the Beaches_corrected_final file ```
 
 
-## Original Personal Learning Plan 
-My personal learning goals are: 
-* Learning Goal 1
-* Learning Goal 2
-* Learning Goal 3
+--- 
+
+
+* **merged_dataset_v2**
+
+``` This dataset is the merged dataset that has both the trash, beach, user ratings and overall ratings but with inconsistent coordinates  ```
+
+---
+
+
+* **Cleaned_data**
+
+```This is a new version of merged_dataset_v2 which has the corrent and consistent coordinates. Later it is used to do Stastical analysis and machine learning ```
+
 
 
 ## Workflow 
@@ -38,4 +50,10 @@ My personal learning goals are:
 - **Step 5:** Open the DataAnalysis_afterMerge.ipynb to check the correlation of tourists and trash that has been found at each beach.
 - **Step 6:** Open the interactive_heatmap.ipynb to create and download interactive heatmaps regarding the trash distribution.
 - **Step 7:** Open Machine_Learning.ipynb to predict the beach amount for each beach for the next season.
+
+
+
 ## Results 
+
+Inside the results folders there are plots and interactive density maps. Those plots and maps comes from the jupyter notebooks files after executing them successfully.
+
