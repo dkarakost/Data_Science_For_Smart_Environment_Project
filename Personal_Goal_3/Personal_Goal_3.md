@@ -16,7 +16,7 @@ The data sources were:
 - All the generated plots from the reusable Jupyter Notebooks by using Python, Matplotlib and Seaborn.
 - The cleaned_data.csv dataset that contains the coordinates for each beach along with the trash amount.
 - The story map format to present resuts also as density maps and a intepretable development of the project.
-
+ 
 
 ---
 

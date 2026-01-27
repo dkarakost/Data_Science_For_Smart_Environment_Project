@@ -24,7 +24,7 @@ The data sources that were two in CSV format:
 
 The implementation is provided in two Jupyter Notebooks: 
 
- ###### Data_Analysis_beforeMerge.ipynb
+ ##### Data_Analysis_beforeMerge.ipynb
 
 - It removes unnecessary columns to simplify data.
 - Groups beaches by region and other categories to create summary tables for the visuals.
@@ -32,7 +32,7 @@ The implementation is provided in two Jupyter Notebooks:
 - Generates lineplots to for highlighting trends across seasons.
 - Uses visuals as an exploratory tool before further analysis or merging.
 
- ###### DataAnalysis_afterMerge.ipynb**
+ ##### DataAnalysis_afterMerge.ipynb
 
 - It loads merge data and creates summary tables for visualization. 
 - Groups and aggregates the data according to ratings and trash amount per beach.
